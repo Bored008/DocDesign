@@ -69,7 +69,7 @@ Export your edited document as:
 
 ![Landing Page](src/assets/Docdesign.png)
 
-![Static Document](src/assets/Staticimage.png)
+![Static Document](src/assets/staticimage.png)
 
 ![Editable Document](src/assets/editabledocument.png)
 
