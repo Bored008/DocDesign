@@ -66,29 +66,12 @@ Export your edited document as:
 
 ## Screenshots
 
-### Landing Page
 
-```text
-/src/assets/Dcodesign.png
-```
+![Landing Page](src/assets/Docdesign.png)
 
-### Document Editor
+![Static Document](src/assets/Staticimage.png)
 
-```text
-/src/assets/staticimage.png
-```
-
-```text
-/src/assets/editabledocument.png
-```
-
-### Features Section
-
-Add screenshot here
-
-```text
-/public/screenshots/features.png
-```
+![Editable Document](src/assets/editabledocument.png)
 
 ---
 
