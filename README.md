@@ -68,18 +68,18 @@ Export your edited document as:
 
 ### Landing Page
 
-Add screenshot here
-
 ```text
-/public/screenshots/home.png
+/src/assets/Dcodesign.png
 ```
 
 ### Document Editor
 
-Add screenshot here
+```text
+/src/assets/staticimage.png
+```
 
 ```text
-/public/screenshots/editor.png
+/src/assets/editabledocument.png
 ```
 
 ### Features Section
